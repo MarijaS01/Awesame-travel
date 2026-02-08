@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Awasame Travel',
+  title: 'Awesame Travel',
   description: 'Your next journey starts here',
 };
 
